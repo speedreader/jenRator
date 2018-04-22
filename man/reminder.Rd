@@ -4,16 +4,19 @@
 \alias{reminder}
 \title{A Heartfelt Reminder}
 \usage{
-reminder(name = "Jennifer")
+reminder(name = "Jennifer", font = "Helveitca")
 }
 \arguments{
-\item{name}{Defaults to "Jennifer" (probably because she's awesome).}
+\item{name}{Defaults to "Jennifer" (probably because she's awesome)}
+
+\item{font}{Defaults to "Helvetica"}
 }
 \description{
 This function allows you to remind yourself or someone else that they are awesome.
 }
 \examples{
-reminder("Collette")
+reminder(name = "Collette", font = 'Mistral')
 }
-\keyword{cats}
+\keyword{maybe}
+\keyword{miguel}
 

@@ -2,7 +2,7 @@
 #'
 #' This function allows you to remind yourself or someone else that they are awesome.
 #' @param name Defaults to "Jennifer" (probably because she's awesome).
-#' @keywords cats
+#' @keywords maybe miguel
 #' @export
 #' @examples
 #' reminder("Collette")

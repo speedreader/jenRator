@@ -5,7 +5,6 @@
 #' @param font Defaults to "Helvetica"
 #' @keywords maybe miguel
 #' @export
-#' @import ggplot2
 #' @examples
 #' reminder(name = "Lisa", font = 'Mistral')
 

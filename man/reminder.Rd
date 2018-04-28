@@ -4,7 +4,7 @@
 \alias{reminder}
 \title{A Heartfelt Reminder}
 \usage{
-reminder(name = "Jennifer", font = "Helveitca")
+reminder(name = "Jennifer", font = "Helvetica")
 }
 \arguments{
 \item{name}{Defaults to "Jennifer" (probably because she's awesome)}
@@ -15,8 +15,8 @@ reminder(name = "Jennifer", font = "Helveitca")
 This function allows you to remind yourself or someone else that they are awesome.
 }
 \examples{
-reminder(name = "Collette", font = 'Mistral')
+reminder(name = "Lisa", font = 'Mistral')
 }
 \keyword{maybe}
 \keyword{miguel}
-
+  

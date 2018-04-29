@@ -10,7 +10,7 @@
 
 reminder <- function(name = 'Jennifer', font = 'Helvetica'){ 
 
- corazon <- data.frame(t=seq(0, 2*pi, by=0.1) )
+ corazon <- data.frame(t=seq(0, 2*pi, by=0.05) )
  xHeart <- function(t) 16*sin(t)^3
  yHeart <- function(t) 13*cos(t)-5*cos(2*t)-2*cos(3*t)-cos(4*t)
  corazon$y=yHeart(corazon$t)
